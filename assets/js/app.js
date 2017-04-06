@@ -1,1 +1,1 @@
-console.log('Mueed')
+const name = 'Mueed'

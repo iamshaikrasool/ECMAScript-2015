@@ -73,7 +73,9 @@
 "use strict";
 
 
-var name = 'Mueed';
+var name = 'Abdul Mueed';
+
+console.log(name);
 
 /***/ })
 /******/ ]);

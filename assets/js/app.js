@@ -1,1 +1,3 @@
-const name = 'Mueed'
+let name = 'Abdul Mueed'
+
+console.log(name)
